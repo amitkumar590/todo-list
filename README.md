@@ -8,13 +8,12 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/amitkumar590/todo-list
+### `git clone https://github.com/amitkumar590/todo-list`
 
 2. Install the dependencies:
 
-   npm install
+### `npm install`
 
 3. Start the development server:
 
-   npm start
-# todo-list
+### `npm start`
